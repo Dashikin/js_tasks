@@ -8,7 +8,7 @@
 <body>
 
 	<p>
-	<script src="alert( 'Я - JavaScript!' ).js" async></script>
+	<script src="alert( 'Я - JavaScript!' ).js" async></script> //Сашка сказал
 	<p>
 
 </body>
