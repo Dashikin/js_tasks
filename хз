@@ -1,0 +1,4 @@
+function getDecimal(num) {
+return (num - Math.round(num);
+}
+console.log(getDecimal(num));
